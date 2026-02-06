@@ -1,7 +1,7 @@
-# Dual Degree Project – Stage 1  
+# Dual Degree Project 
 ## Image Segmentation in Aerial and Satellite Imagery
 
-This repository contains the work carried out as part of my **Dual Degree Project (DDP) – Stage 1**, focused on **image segmentation in aerial and satellite images**.  
+This repository contains the work carried out as part of my **Dual Degree Project (DDP) **, focused on **image segmentation in aerial and satellite images**.  
 The project explores and compares **multiple deep learning models** across **different image modalities**, including:
 
 - **RGB**
