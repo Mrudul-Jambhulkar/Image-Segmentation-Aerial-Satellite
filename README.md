@@ -119,10 +119,7 @@ This folder contains **knowledge transfer pipeline from SAM** for **semantic seg
 - `DDP_report_stage1.pdf`  
   → Detailed documentation of **Stage 1 methodology, datasets, experiments, and results**
 
-- `RGSTC_Report_ddp.pdf`  
-  → Additional project report (RGSTC)
 
----
 
 
 
