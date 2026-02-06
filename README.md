@@ -96,6 +96,24 @@ This folder contains experiments on the **PhenoBench dataset** for crop field se
 
 ---
 
+### 5. `sam_kd/`
+
+This folder contains **knowledge transfer pipeline from SAM** for **semantic segmentation**.
+
+**Approach:**
+- **Segment Anything Model (SAM)** acts as the **teacher**
+- Knowledge is transferred to a **lightweight decoder (student model)**
+- Enables training with a **very small subset of images**
+
+**Dataset & Task:**
+- **HiRISE images** (Mars Reconnaissance Orbiter)
+- Task: **Segmentation of Martian landforms**
+- Focus on **data-efficient learning** for planetary imagery
+
+**Contents:**
+- Python code implementing the SAM-based knowledge distillation pipeline
+- Sample qualitative segmentation results
+
 ## Reports
 
 - `DDP_report_stage1.pdf`  
