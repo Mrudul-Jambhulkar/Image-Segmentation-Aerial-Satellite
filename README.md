@@ -78,7 +78,7 @@ This folder contains work on **hyperspectral image segmentation** using a **3D U
 
 ### 4. `phenobench/`
 
-This folder contains experiments on the **PhenoBench dataset** for crop field segmentation.
+This folder contains experiments on the **PhenoBench dataset** for semantic segmentation.
 
 **Dataset:**
 - Image size: `1024 × 1024`
